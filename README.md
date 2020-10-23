@@ -6,7 +6,7 @@ I used to hate Excel. I remeber at school feeling like the only thing I could do
 ## Examples
 * Skype Communication Data
 While COVID-19 ran rampant and no-one had a clue what to do, I was unable to see my daughter for about 4 months (Not through Government advice I might add) I was looking for a way to  create a dashboard from some kind of meaningful data and something that I would be able to refence from when i needed to. This would be my first attempt at creating an Excel Dashboard.
-![SKYPE DATA] (https://github.com/elchubinebrae/Excel-Data-Visualisation/blob/main/Excel%20Data%20Visualisations/Skype_Data_Dashboard/SKYPE%20DASHBOARD%20SCREENSHOT.JPG?raw=true)
+![SKYPE DATA](https://github.com/elchubinebrae/Excel-Data-Visualisation/blob/main/Excel%20Data%20Visualisations/Skype_Data_Dashboard/SKYPE%20DASHBOARD%20SCREENSHOT.JPG?raw=true)
 
 * ACME Sales Dashboard
 Another attempt at creating a dashboard. This time was for sales data from the ficticious company AMCE. Improved formatting and an overall better design turned this dashboard into something that I'm quite proud of.
